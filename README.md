@@ -40,5 +40,5 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([goto:linkedin.com/in/eewolfe/](https://www.linkedin.com/in/eewolfe/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/eewolfe/](https://www.linkedin.com/in/eewolfe/))  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewolfe07@gmail.com)
