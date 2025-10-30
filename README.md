@@ -9,7 +9,8 @@ Exploring how data + code can solve real-world challenges
 ## What I'm Working On  
 - **GatorHall** → A student-powered platform for dorm reviews, photos, and competitions  
 - **RAG React App** → File embeddings + vector search with MongoDB & pgvector  
-- **Discord Bots** → Automating communities with Node.js + database integration  
+- **Discord Bots** → Automating communities with Node.js + database integration
+- **DataScript** → A brand new Programming Language to act as a seamless wrapper on MongoDB's NoSQL language making queries, database management, and syntax easier
 
 ---
 
