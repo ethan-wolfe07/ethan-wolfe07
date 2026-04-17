@@ -1,15 +1,14 @@
 # Hi there, I'm Ethan 👋  
 
-**Data Science major @ University of Florida**  
+**Data Science & Economics major @ University of Florida**  
 Passionate about AI, databases, and full-stack development  
 Exploring how data + code can solve real-world challenges  
 
 ---
 
 ## What I'm Working On  
-- **GatorHall** → A student-powered platform for dorm reviews, photos, and competitions  
+- **CatchPredict** → A Machine Learning Model to predict when the best time to go fishing is at different locations nation-wide  
 - **RAG React App** → File embeddings + vector search with MongoDB & pgvector  
-- **Discord Bots** → Automating communities with Node.js + database integration
 - **DataScript** → A brand new Programming Language to act as a seamless wrapper on MongoDB's NoSQL language making queries, database management, and syntax easier
 
 ---
